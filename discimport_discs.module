@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Discimport Discs feature.
+ */
+
+include_once 'discimport_discs.features.inc';
