@@ -39,6 +39,7 @@ features[field_instance][] = commerce_product-discs-commerce_price
 features[field_instance][] = commerce_product-discs-commerce_stock
 features[field_instance][] = commerce_product-discs-field_color
 features[field_instance][] = commerce_product-discs-field_images
+features[field_instance][] = commerce_product-discs-title_field
 features[field_instance][] = node-discs-body
 features[field_instance][] = node-discs-field_brand
 features[field_instance][] = node-discs-field_category
