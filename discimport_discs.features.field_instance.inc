@@ -828,7 +828,7 @@ function discimport_discs_field_default_field_instances() {
           'show_quantity' => FALSE,
           'show_single_product_attributes' => FALSE,
         ),
-        'type' => 'commerce_cart_add_to_cart_form',
+        'type' => 'hidden',
         'weight' => 3,
       ),
       'full' => array(
@@ -841,7 +841,7 @@ function discimport_discs_field_default_field_instances() {
           'show_quantity' => 1,
           'show_single_product_attributes' => 0,
         ),
-        'type' => 'commerce_cart_add_to_cart_form',
+        'type' => 'hidden',
         'weight' => 5,
       ),
       'product_list' => array(

@@ -1,0 +1,11 @@
+<?php
+
+/**
+ * Ensure add to cart field is hidden.
+ */
+function discimport_discs_update_7001() {
+  $instance = field_info_instance('node', 'field_product', 'discs');
+  $instance['display']['default']['type'] = 'hidden';
+  $instance['display']['full']['type'] = 'hidden';
+  field_update_instance($instance);
+}
