@@ -15,7 +15,7 @@ function discimport_discs_default_commerce_autosku_patterns() {
   $commerce_autosku_patterns->api_version = 1;
   $commerce_autosku_patterns->product_type = 'discs';
   $commerce_autosku_patterns->pattern = '';
-  $commerce_autosku_patterns->advanced = array();
+  $commerce_autosku_patterns->advanced = '';
   $export['discs'] = $commerce_autosku_patterns;
 
   return $export;

@@ -10,7 +10,7 @@
 function discimport_discs_field_default_field_instances() {
   $field_instances = array();
 
-  // Exported field_instance: 'commerce_product-discs-billysbilling_product_id'
+  // Exported field_instance: 'commerce_product-discs-billysbilling_product_id'.
   $field_instances['commerce_product-discs-billysbilling_product_id'] = array(
     'bundle' => 'discs',
     'default_value' => NULL,
@@ -78,7 +78,7 @@ function discimport_discs_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'commerce_product-discs-commerce_price'
+  // Exported field_instance: 'commerce_product-discs-commerce_price'.
   $field_instances['commerce_product-discs-commerce_price'] = array(
     'bundle' => 'discs',
     'default_value' => NULL,
@@ -208,7 +208,7 @@ function discimport_discs_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'commerce_product-discs-commerce_stock'
+  // Exported field_instance: 'commerce_product-discs-commerce_stock'.
   $field_instances['commerce_product-discs-commerce_stock'] = array(
     'bundle' => 'discs',
     'default_value' => array(
@@ -287,7 +287,7 @@ function discimport_discs_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'commerce_product-discs-field_color'
+  // Exported field_instance: 'commerce_product-discs-field_color'.
   $field_instances['commerce_product-discs-field_color'] = array(
     'bundle' => 'discs',
     'commerce_cart_settings' => array(
@@ -360,7 +360,7 @@ function discimport_discs_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'commerce_product-discs-field_images'
+  // Exported field_instance: 'commerce_product-discs-field_images'.
   $field_instances['commerce_product-discs-field_images'] = array(
     'bundle' => 'discs',
     'deleted' => 0,
@@ -490,7 +490,7 @@ function discimport_discs_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'commerce_product-discs-title_field'
+  // Exported field_instance: 'commerce_product-discs-title_field'.
   $field_instances['commerce_product-discs-title_field'] = array(
     'bundle' => 'discs',
     'default_value' => NULL,
@@ -551,7 +551,7 @@ function discimport_discs_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'node-discs-body'
+  // Exported field_instance: 'node-discs-body'.
   $field_instances['node-discs-body'] = array(
     'bundle' => 'discs',
     'default_value' => NULL,
@@ -606,7 +606,7 @@ function discimport_discs_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'node-discs-field_brand'
+  // Exported field_instance: 'node-discs-field_brand'.
   $field_instances['node-discs-field_brand'] = array(
     'bundle' => 'discs',
     'default_value' => NULL,
@@ -658,7 +658,7 @@ function discimport_discs_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'node-discs-field_category'
+  // Exported field_instance: 'node-discs-field_category'.
   $field_instances['node-discs-field_category'] = array(
     'bundle' => 'discs',
     'default_value' => NULL,
@@ -709,7 +709,7 @@ function discimport_discs_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'node-discs-field_collection'
+  // Exported field_instance: 'node-discs-field_collection'.
   $field_instances['node-discs-field_collection'] = array(
     'bundle' => 'discs',
     'default_value' => NULL,
@@ -762,7 +762,7 @@ function discimport_discs_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'node-discs-field_discount_group'
+  // Exported field_instance: 'node-discs-field_discount_group'.
   $field_instances['node-discs-field_discount_group'] = array(
     'bundle' => 'discs',
     'default_value' => NULL,
@@ -812,7 +812,7 @@ function discimport_discs_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'node-discs-field_product'
+  // Exported field_instance: 'node-discs-field_product'.
   $field_instances['node-discs-field_product'] = array(
     'bundle' => 'discs',
     'deleted' => 0,
@@ -890,7 +890,7 @@ function discimport_discs_field_default_field_instances() {
     ),
   );
 
-  // Exported field_instance: 'node-discs-title_field'
+  // Exported field_instance: 'node-discs-title_field'.
   $field_instances['node-discs-title_field'] = array(
     'bundle' => 'discs',
     'default_value' => NULL,

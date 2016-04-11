@@ -10,7 +10,7 @@
 function discimport_discs_field_default_field_bases() {
   $field_bases = array();
 
-  // Exported field_base: 'billysbilling_product_id'
+  // Exported field_base: 'billysbilling_product_id'.
   $field_bases['billysbilling_product_id'] = array(
     'active' => 1,
     'cardinality' => 1,
@@ -31,7 +31,7 @@ function discimport_discs_field_default_field_bases() {
     'type' => 'text',
   );
 
-  // Exported field_base: 'body'
+  // Exported field_base: 'body'.
   $field_bases['body'] = array(
     'active' => 1,
     'cardinality' => 1,
@@ -52,7 +52,7 @@ function discimport_discs_field_default_field_bases() {
     'type' => 'text_with_summary',
   );
 
-  // Exported field_base: 'commerce_stock'
+  // Exported field_base: 'commerce_stock'.
   $field_bases['commerce_stock'] = array(
     'active' => 1,
     'cardinality' => 1,
@@ -73,7 +73,7 @@ function discimport_discs_field_default_field_bases() {
     'type' => 'number_decimal',
   );
 
-  // Exported field_base: 'field_discount_group'
+  // Exported field_base: 'field_discount_group'.
   $field_bases['field_discount_group'] = array(
     'active' => 1,
     'cardinality' => 1,
@@ -94,12 +94,13 @@ function discimport_discs_field_default_field_bases() {
           'parent' => 0,
         ),
       ),
+      'options_list_callback' => 'title_taxonomy_allowed_values',
     ),
     'translatable' => 0,
     'type' => 'taxonomy_term_reference',
   );
 
-  // Exported field_base: 'title_field'
+  // Exported field_base: 'title_field'.
   $field_bases['title_field'] = array(
     'active' => 1,
     'cardinality' => 1,
